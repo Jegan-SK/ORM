@@ -59,4 +59,4 @@ admin.site.register(Swiggy_DB,Swiggy_DBAdmin)
 
 
 ## RESULT
-Thus the program for creating E-commerce website database using ORM hass been executed successfully
+Thus the program for creating Online Food Delivery Database platform like Zomato or Swiggy using ORM hass been executed successfully.
